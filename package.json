@@ -14,7 +14,12 @@
     "url": "git+https://github.com/raghul-rajendran/Pattern_validation.git"
   },
   "keywords": [
-    "jquery-plugin"
+    "jquery-plugin",
+    "validation",
+    "custom",
+    "pattern",
+    "form-validation",
+    "form"	
   ],
   "author": "raghul-rajendran",
   "license": "MIT",
