@@ -1,14 +1,14 @@
 {
   "name": "custom-pattern-validation",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "custom pattern validation",
   "main": "pattern.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-"dependencies": {
-	"jquery": ">=1.7.0 <4.0.0"
-},
+  "dependencies": {
+    "jquery": ">=1.7.0 <4.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raghul-rajendran/Pattern_validation.git"
