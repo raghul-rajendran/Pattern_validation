@@ -17,9 +17,11 @@ Pattern Jquery Plugin Validation
 	##% 		- Number with Percentage Will Add
 	$##,### 	- Doller and commas will added Dynamically
 	##,### 		- Commas will added dynamically
+	-#####		- Number with minus sign
+	##,###.##       - Commas and dot will added dynamically
 
-	The Important note that we can Give any numbers of the Hash key (#) 
-	1.Example For numbers We can Give ## or ### or ####### it will take numbers only
+	The Important note that we can Give any numbers as Hash key (#) 
+	1.Example For numbers We can Give ## or ### or ####### it will take's number only
 	2.For Date We can Give #####/##/##### or ##/##/####
 	3. For Text, We can give zxy or ABC or any text and goes on...
 

@@ -1,0 +1,22 @@
+{
+  "name": "custom-pattern-validation",
+  "version": "1.0.0",
+  "description": "custom pattern validation",
+  "main": "pattern.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghul-rajendran/Pattern_validation.git"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "author": "raghul-rajendran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghul-rajendran/Pattern_validation/issues"
+  },
+  "homepage": "https://github.com/raghul-rajendran/Pattern_validation#readme"
+}
